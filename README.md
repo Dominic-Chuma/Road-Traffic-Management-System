@@ -15,16 +15,26 @@ Building solution that could avoid, alert, inform, monitor and report road bad d
 
 ## Server Side
 
-[ ] - Create user roles.
+[x] - Connect database
 
-[ ] - Create and expose api user routes
+[x] - Create user roles.
 
-[ ] - Sign up, Sign in, Forgot password
+[x] - Create auth api routes
 
+[x] - Create and expose api user routes
+
+[] - 
 
 ## Mobile Application
-***To-do list to follow***
+
+[] - Onboarding 
+
+[] - Report
+
 
 
 ## Response dashboard
-***To-do list to follow***
+
+[] - Onboarding
+
+[] - Super admin must add response handlers
